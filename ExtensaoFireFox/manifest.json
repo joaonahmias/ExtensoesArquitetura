@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "version":"0.0.1",
+    "name": "nahmias Extension",
+    "description": "Extensão do Nahmias feita para Disciplina de Aquitetura de Software, com intuito de aprendizado",
+    "author": "João Vitor Araujo Nahmias da Silva",
+    "action":{
+        "default_title": "Nahmias Code",
+        "default_popup": "index.html"
+    }
+   
+}
